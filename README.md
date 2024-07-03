@@ -19,7 +19,7 @@ Exemplo de sala de aula.
 * Dayane
 
 # Projeto Odotolongico
-*Ruan
-*Maiza
-*Cleociane
-*Luã
+* Ruan
+* Maiza
+* Cleociane
+* Luã
