@@ -18,7 +18,7 @@ Exemplo de sala de aula.
 * Ariana
 * Dayane
 
-# Projeto Odontolongico
+# Projeto Odontologico
 * Ruan
 * Maiza
 * Cleociane
